@@ -1,0 +1,25 @@
+
+nav>img{
+    height: 350px;
+    width: 100%;
+}
+nav{
+    background-color: rgb(47, 66, 83);
+    color:white;
+}
+nav>div{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+nav>div>div{
+    display: flex;
+    width: 25%;
+}
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+}
